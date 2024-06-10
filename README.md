@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omor</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 💬 Ask me about **react, next js, express js, raw node js**
+- 💬 Ask me about **react, next js, express js, raw node js react native**
 
 - 📫 How to reach me **omorhawlader.dev@gmail.com**
 
